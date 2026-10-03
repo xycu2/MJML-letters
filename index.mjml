@@ -1,0 +1,16 @@
+<mjml>
+  <mj-head>
+    <mj-title>Apple Letter</mj-title>
+    <mj-preview>Apple Letter</mj-preview>
+    <mj-style>
+    
+    </mj-style>
+  </mj-head>
+  <mj-body width="640px">
+    <mj-section background-color="#313131" padding="0">
+      <mj-column>
+        <mj-image width="24px" align="center" padding="24px" src="http://work.maxgraph.ru/mail/mjml-letter/apple.png" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
