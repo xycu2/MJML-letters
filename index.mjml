@@ -25,5 +25,10 @@
         </mj-button>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#141415" padding="0">
+      <mj-column>
+        <mj-image align="center" src="http://work.maxgraph.ru/mail/mjml-letter/mac.png" />
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
