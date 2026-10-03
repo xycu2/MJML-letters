@@ -3,13 +3,26 @@
     <mj-title>Apple Letter</mj-title>
     <mj-preview>Apple Letter</mj-preview>
     <mj-style>
-    
+      h1 {
+        font-size: inherit
+      }
     </mj-style>
   </mj-head>
   <mj-body width="640px">
     <mj-section background-color="#313131" padding="0">
       <mj-column>
         <mj-image width="24px" align="center" padding="24px" src="http://work.maxgraph.ru/mail/mjml-letter/apple.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#141415" padding="0">
+      <mj-column>
+        <mj-text padding="50px 30px 0px 30px" color="#ffffff" font-size="40px" font-family="Verdana" line-height="49px" font-weight="bold" align="center">
+          <h1>Our most stunning take on post-production.</h1>
+        </mj-text>
+        <mj-button css-class="link" font-family="Verdana" font-weight="bold" background-color="transparent" color="#51acff" line-height="18px" font-size="15px" href="https://github.com/">
+        Buy now
+        <img src="http://work.maxgraph.ru/mail/mjml-letter/arrow.png" />
+        </mj-button>
       </mj-column>
     </mj-section>
   </mj-body>
